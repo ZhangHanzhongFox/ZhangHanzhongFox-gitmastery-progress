@@ -59,5 +59,14 @@
       "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1788412325.120535,
+    "completed_at": 1788412326.629728,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
   }
 ]
